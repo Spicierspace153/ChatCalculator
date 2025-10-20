@@ -1,4 +1,4 @@
-package appeng.util;
+package com.Space.ChatCalculator;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
@@ -10,10 +10,6 @@ import java.util.function.BiFunction;
 import java.util.regex.Pattern;
 
 import org.jetbrains.annotations.NotNull;
-
-import net.minecraft.ChatFormatting;
-import net.minecraft.network.chat.Component;
-import net.minecraft.network.chat.Style;
 
 @SuppressWarnings("UnusedReturnValue")
 public class NumberUtil {
