@@ -22,6 +22,7 @@ public class ClientEventListener {
         Minecraft.getInstance().player.displayClientMessage(
                 Component.literal(" " + result).withStyle(ChatFormatting.AQUA),
                 false
+
         );
     }
 }
